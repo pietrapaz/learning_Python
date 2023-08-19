@@ -1,2 +1,2 @@
 # learning_Python
-Aprendizado de Python na faculdade nas matérias de Computação Gráfica e Inteligência Artificial na Saúde
+Repositório criado para armazenar códigos em Python das matérias Computação Gráfica e Inteligência Artificial na Saúde
